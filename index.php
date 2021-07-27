@@ -29,7 +29,7 @@ require "includes/common.php";
                             <h1>We sell lifestyle.</h1>
                             <p>Flat 40% OFF on premium brands </p>
                             <br/>
-                            <a  href="products.php" class="btn btn-danger btn-lg active">Shop Now</a>
+                            <a href="products.php" class="btn btn-danger btn-lg active">Shop Now</a>
                         </div>
                     </center>
                 </div>
